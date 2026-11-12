@@ -1,4 +1,4 @@
-My project Title is Assist My Patient.
+My project Title is Assist My Patient. My stand-up meeting leader is Vasileios Kelefouras.
 
 The vision is to improve pharmacist to patient relations. The customer comes up to the counter with concerns or a prescription and the app which is designed for the pharmacist asks for :
 - the patient's name
